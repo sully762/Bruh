@@ -1,0 +1,25 @@
+
+body {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
+h1, h3, p {
+  margin: 5% 0;
+}
+
+.main-header {
+  margin-top: 0;
+  font-size: 500%;
+}
+
+.secondary-header {
+  font-size: 300%;
+}
+
+img {
+  width: 30%;
+}
+
+hr {
+  border-width: 0.5rem;
+}
